@@ -1,0 +1,5 @@
+{
+    "name": "JWS Login",
+    "mongoURI": "mongodb://localhost:auth/auth",
+    "jwtPrivateKey":""
+}
